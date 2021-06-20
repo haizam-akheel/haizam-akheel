@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @haizam-akheel.
+- 👀 I’m an aspiring Data Analyst.
+- 🌱 I’m currently learning data analytics.
+- 💞️ I’m looking to collaborate with people who would like to increase my knowledge in R and Tableau.
